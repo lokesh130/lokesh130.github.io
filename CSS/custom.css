@@ -1,0 +1,57 @@
+.bgdesign
+{
+	background-image:linear-gradient(to right,yellow,green);
+}
+
+.heading
+{
+	text-align:center;
+	font-family:fantasy;
+}
+
+#h31
+{
+	font-family:Comic Sans MS;
+	text-align:center;
+}
+
+#input1
+{
+	width:300px;
+	height: 45px;
+	text-align:center;
+	border-radius:20px;
+	font-family:Modern;
+	font-size:20px;
+}
+
+#button1
+{
+	background-color: orange;
+	height:50px;
+	width:100px;
+	border-radius: 20px;
+}
+
+#button2
+{
+	background-color: red;
+	height:50px;
+	width:100px;
+	border-radius: 20px;
+}
+
+.center
+{
+	text-align:center;
+}
+
+#ul1
+{
+	font-family:Calibri;
+	font-size:20px;
+	line-height: 30px;
+	list-style: circle;
+	display: inline-block;
+}
+
